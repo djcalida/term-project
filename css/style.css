@@ -23,13 +23,50 @@ ul{
      font-size: 30px;
      display: inline-block;
      padding-left: 100px;
-     
 }
 .nav ul li{
     float: right;
     text-decoration: none;
-
     display: inline-block;
     color: #ffffff;
     margin: 0 5px;
 }
+.bck_img {
+    margin: 0;
+    position: relative;
+}
+div img{
+    padding-top: none;
+    height: 900px;
+    
+}
+
+.h2 {
+    position: absolute;
+    padding-left: 50px;
+    top:250px;
+    left: 50px;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.green{
+    color: limegreen;
+}
+
+.p {
+    position: absolute;
+    bottom: 480px;
+    left: 100px;
+}
+.a{
+    position: absolute;
+    bottom: 450px;
+    left: 10px;
+    background-color: black;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    left: 100px;
+}
+
