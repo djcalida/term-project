@@ -1,4 +1,4 @@
-.nav{
+body{
     margin: 0;
     padding: 0;
     font-family:Arial, Helvetica, sans-serif
@@ -74,5 +74,81 @@ p .a1{
     text-transform: uppercase;
     padding: 10px;
 }
-
-
+.merchandise .img1{
+    padding-top: 50px;
+    margin-left: 100px;
+    height: 200px;
+    width: 538px;
+}
+.merchandise .img2{
+    margin-right: 100px;
+    margin-left: 5px;
+    padding-top: 50px;
+    height: 200px;
+    width: 538px;
+}
+.merch .h3{
+        padding-left: 140px;
+        font-size: none;
+        position: absolute;
+        display: block;
+        top: 620px;
+        text-transform: uppercase;
+        color: white;
+}
+.merch .a2_2{
+    padding-left: 140px;
+    font-size: none;
+    position: absolute;
+    display: block;
+    top: 690px;
+    text-transform: uppercase;
+    color: white;
+}
+.merch .h3_2{
+    padding-left: 140px;
+    font-size: none;
+    position: absolute;
+    display: block;
+    top: 620px;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 550px;
+}
+.merch .a2_3{
+    padding-left: 140px;
+    margin-left: 550px;
+    font-size: none;
+    position: absolute;
+    display: block;
+    top: 690px;
+    text-transform: uppercase;
+    color: white;
+}
+.p_2{
+    text-align: center;
+    font-style: italic;
+    padding-top: 30px;
+    padding-bottom: 0;
+    margin: 0;
+    color:  rgb(185, 90, 0);
+}
+.h2_2{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-bottom: 0;
+    
+}
+hr{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-top: solid rgb(185, 90, 0);
+}
