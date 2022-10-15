@@ -160,8 +160,10 @@ color: white;
 }
 hr{
     text-align: center;
+    margin-top: 15px;
     margin-left: 600px;
     margin-right: 600px;
+    margin-bottom: 20px;
     border-top: solid rgb(185, 90, 0);
 }
 .column {
@@ -515,3 +517,188 @@ hr{
     margin-right: 490px;
     
 }
+/* Merchandise Sale Area*/
+.Merchandise-sale p{
+    padding-top: 1000px;
+}
+.Merchandise-sale p{
+    text-align: center;
+    font-style: italic;
+    padding-top: 1050px;
+    padding-bottom: 0;
+    margin: 0;
+    color:  rgb(185, 90, 0);
+}
+.Merchandise-sale h2{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 0;
+    margin-top: 5px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-bottom: 0;   
+}
+.hr_2{
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-top: solid rgb(185, 90, 0);
+}
+/*Area 4 products*/
+.column_3{
+    float: left;
+    padding-inline: 0px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+#row3 .column_3 .img_9{   
+    margin-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    height: 270px;
+    width: 270px;
+}
+#row3 .column_3 .img_10{   
+    padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    height: 270px;
+    width: 270px;
+}
+#row3 .column_3 .img_11{   
+    padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    height: 270px;
+    width: 270px;
+    
+}
+#row3 .column_3 .img_12{   
+    margin-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    height: 270px;
+    width: 270px;
+}
+.column_3 .h3_11{
+    padding-top: 0;
+    margin-top: 0;
+    font-size:90%; 
+    float:inline-end;
+    padding-inline: 0px;
+    padding-left: 100px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.column_3 .h3_12{
+    padding-top: 0;
+    margin-top: 0;
+    font-size:90%; 
+    float:inline-end;
+    padding-inline: 0px;
+    padding-left: 0px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.column_3 .h3_13{
+    padding-top: 0;
+    margin-top: 0;
+    font-size:90%; 
+    float:inline-end;
+    padding-inline: 0px;
+    padding-left: 0px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.column_3 .h3_14{
+    padding-top: 0;
+    margin-top: 0;
+    font-size:90%; 
+    float:inline-end;
+    padding-inline: 0px;
+    padding-left: 0px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.column_3 .p_11{
+    float:inline-end;
+    padding-inline: 0px;
+    padding-left: 100px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.column_3 .p_12{
+    float:inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.column_3 .p_13{
+    float:inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.column_3 .p_14{
+    float:inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.column_3 .p_11_11{
+    float:inline-end;
+    padding-inline: 0px;
+    padding-left: 100px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.column_3 .p_12_12{
+    float:inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.column_3 .p_13_13{
+    float:inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.column_3 .p_14_14{
+    float:inline-end;
+    padding-inline: 0px;
+    opacity: 70%;
+    color: rgb(185, 90, 0);
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
