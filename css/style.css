@@ -55,6 +55,7 @@ nav{
     display: block;
     top: 100px;
     text-transform: uppercase;
+    opacity: 70%;
 }
 .background1 span{
     position: relative;
@@ -69,6 +70,7 @@ nav{
     position: relative;
     top: 90px;
     font-weight: 0;
+    opacity: 70%;
 }
 .a_3{
     top: 115px;
@@ -111,7 +113,7 @@ nav{
     color: white;
 }
 .a_4{
-top: 75px;
+top: 100px;
 padding-left: 50px;
 font-size: smaller;
 position: relative;
@@ -129,7 +131,7 @@ color: white;
     color: white;
 }
 .a_5{
-top: 75px;
+top: 100px;
 padding-left: 50px;
 font-size: smaller;
 position: relative;
@@ -148,6 +150,7 @@ color: white;
     padding-bottom: 0;
     margin: 0;
     color:  rgb(185, 90, 0);
+    opacity: 70%;
 }
 .h2_2{
     text-align: center;
@@ -157,6 +160,7 @@ color: white;
     margin-left: 400px;
     margin-right: 400px;
     padding-bottom: 0;   
+    
 }
 hr{
     text-align: center;
@@ -165,6 +169,7 @@ hr{
     margin-right: 600px;
     margin-bottom: 20px;
     border-top: solid rgb(185, 90, 0);
+    opacity: 70%;
 }
 .column {
     float: left;
@@ -497,6 +502,7 @@ hr{
     font-style: italic;
     color: rgb(223, 125, 35);
     padding-top: 100px;
+    opacity: 70%;
 }
 .banner h2{
     position: relative;
@@ -784,7 +790,6 @@ hr{
 }
 .form{
     background-color: rgb(248, 246, 246);
-    border: 1px dotted black;
     height: 330px;
     width: 540px;
     float: left;
@@ -796,7 +801,6 @@ hr{
 }
 .form_2{
     background-color: rgb(248, 246, 246);
-    border: 1px dotted blue;
     height: 450px;
     width: 540px;
     float: left;
@@ -973,6 +977,9 @@ hr{
     font-size: 12px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+.no_opacity{
+    font-weight:none;
+}
 .footer1:nth-child(1){
     position: relative;
     margin-left: 100px;
@@ -1006,6 +1013,7 @@ hr{
 }
 .footer2 p{
     color: rgb(223, 125, 35);
+    opacity: 70%;
 }
 .footer3{
     color: white;
@@ -1013,6 +1021,10 @@ hr{
 #footer_p1{
     padding-top: 10px;
     color: rgb(223, 125, 35);
+    opacity: 70%;
+}
+.search{
+    opacity: 70%;
 }
 #footer_p2{
     padding-bottom: 10px;
@@ -1034,6 +1046,7 @@ hr{
     color:rgb(223, 125, 35);
     text-transform: uppercase;
     padding-top: 10px;
+    opacity: 70%;
 }
 .footer_2{
     overflow: auto;
