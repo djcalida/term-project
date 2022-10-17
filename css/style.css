@@ -701,4 +701,270 @@ hr{
     padding-top: 0px;
     margin-top: 0px;
 }
+.ads-box h3{
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.ads-box a{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+.box_1{
+    height: 250px;
+    width: 545px;
+    float: left;
+    background-size: cover;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 70PX;
+}
+.box_2{
+    height: 250px;
+    width: 545px;
+    float: left;
+    background-size: cover;
+    position: relative;
+    margin-top: 70px;
+}
+.box_3{
+    height: 250px;
+    width: 545px;
+    clear: both;
+    float: left;
+    background-size: cover;
+    margin-left:auto ;
+    margin-right: auto;
+    position: relative;
+}
+.box_4{
+    height: 250px;
+    width: 545px;
+    float: left;
+    background-size: cover;
+    position: relative;
+}
+.box_1:nth-child(1){
+    margin-left: 100px;
+    margin-right:auto;
+    background-image: url(../images/merchandise3.jpg);
+    border:5px solid rgb(185, 90, 0);
+    margin-bottom: 5px;
+}
+.box_2:nth-child(2)
+{   
+    margin-left:5px;
+    margin-right: px;
+    background-image: url(../images/merchandise4.jpg);
+    border:5px solid rgb(185, 90, 0);
+}
+.box_3:nth-child(3)
+{
+    margin-left:100px;
+    margin-right: px;
+    background-image: url(../images/merchandise5.jpg);
+    border:5px solid rgb(185, 90, 0);
+}
+.box_4:nth-child(4){
+    margin-left:  5px;
+    margin-right: px;
+    background-image: url(../images/merchandise6.jpg);
+    border:5px solid rgb(185, 90, 0);
+}
+/*reservartion form*/
+.h2_3{
+    clear: both;
+    text-align: center;
+    padding-top: 50px;
+    text-transform: uppercase;
+}
+.form{
+    background-color: rgb(248, 246, 246);
+    border: 1px dotted black;
+    height: 330px;
+    width: 540px;
+    float: left;
+    background-size: cover;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 10px;  
+}
+.form_2{
+    background-color: rgb(248, 246, 246);
+    border: 1px dotted blue;
+    height: 450px;
+    width: 540px;
+    float: left;
+    background-size: cover;
+    position: relative;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.label_1{
+    margin-left: 20px;
+    top: 20px;
+    position: relative;
+}
+.input_1{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 20px;
+    padding: 5px;
+    padding-right: 320px;
+    position: relative;
+}
+.label_2{
+    margin-left: 20px;
+    top: 25px;
+    position: relative;
+}
+.input_2{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 25px;
+    padding: 5px;
+    padding-right: 320px;
+    position: relative;
+}
+.label_3{
+    margin-left: 20px;
+    top: 30px;
+    position: relative;
+}
+.input_3{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 30px;
+    padding: 5px;
+    padding-right: 320px;
+    position: relative;
+}
+.label_4{
+    margin-left: 20px;
+    top: 35px;
+    position: relative;
+}
+.input_4{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 35px;
+    background-color: rgb(228, 228, 228);
+    padding-right: 415px;
+    position: relative;
+}
+.label_5{
+    margin-left: 20px;
+    top: 40px;
+    position: relative;
+}
+.input_5{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 40px;
+    padding: 5px;
+    padding-right: 377px;
+    position: relative;
+}
+.label_6{
+    
+    top: 45px;
+    position: relative;
+}
+.input_6{
+    margin-left: 20px;
+    top: 45px;
+    padding: 5px;
+    padding-right: 450px;
+    position: relative;
+}
+.label_7{
+    top: 45px;
+    position: relative;
+}
+.input_7{
+    top: 45px;
+    padding: 5px;
+    padding-right: 320px;
+    position: relative;
+}
+/*Form 2 Area*/
+.legend_1{
+    margin-left: 20px;
+    top: 20px;
+    position: relative;
+}
+.legend_2{
+    margin-right: 20px;
+    padding-right: 267px;
+    position: relative;
+}
+.form_3 h3{
+    padding-top: 30px;
+    text-align: center;
+}
+.form_3 p{
+    text-align: center;
+}
+.label_8{
+    margin-left: 20px;
+    position: relative;
+}
+.input_8{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    padding-right: 320px;
+    position: relative;
+}
+.label_9{
+    margin-left: 20px;
+    position: relative;
+    top: 5px;
+}
+.input_9{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 5px;
+    padding: 5px;
+    padding-right: 320px;
+    position: relative;
+}
+.input_10{
+    margin-left: 20px;
+    top: 10px;
+    padding: 5px;
+    position: relative;
+}
+.label_10{
+    top: 10px;
+    position: relative;
+}
+.button{
+    margin-left: 20px;
+    margin-right: 20px;
+    top: 15px;
+    padding: 5px;
+    
+    position: relative;
+    background-color: green;
+    
+}
+.button a{
+    position: relative;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: auto;
+    padding-right: 220px;
+    padding-left: 220px;
+}
+.button p{
+    
+}
+
 
